@@ -1,6 +1,6 @@
 # CDSL 開発標準ガイド Draft
 
-# はじめに
+## はじめに
 
 - 対象とする読者
 - 資料の目的
@@ -10,7 +10,7 @@
 
 WSLはWindows Subsystem for Linuxの略です。これはWindows上でLinux環境を用意する方法の一つです。
 
-インストール手順
+### インストール手順
 
 Windows 10のマシンを用意します。
 
